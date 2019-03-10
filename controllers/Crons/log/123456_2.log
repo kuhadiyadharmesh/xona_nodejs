@@ -1,0 +1,1304 @@
+{"message":"C1 Started :20190212","level":"info"}
+{"message":"Total user :5403","level":"info"}
+{"message":"admaser find :{ _id: 5c51961037b9520c485658e7 },{ _id: 5c59a3dcaed22b108c0a6991 },{ _id: 5c59a3fcaed22b108c0a69c3 },{ _id: 5c59a418aed22b108c0a69e1 },{ _id: 5c59a431aed22b108c0a69f1 },{ _id: 5c59a44caed22b108c0a6a0e },{ _id: 5c59a464aed22b108c0a6a1e },{ _id: 5c59a47eaed22b108c0a6a2d },{ _id: 5c59a496aed22b108c0a6a3b },{ _id: 5c59a4afaed22b108c0a6a5a },{ _id: 5c59a4c7aed22b108c0a6a72 },{ _id: 5c59a4e1aed22b108c0a6a7e },{ _id: 5c59a4faaed22b108c0a6ab0 },{ _id: 5c59a531aed22b108c0a6af3 },{ _id: 5c59a54caed22b108c0a6b34 },{ _id: 5c59a567aed22b108c0a6b74 },{ _id: 5c59a58aaed22b108c0a6bb4 },{ _id: 5c59a5a2aed22b108c0a6be9 },{ _id: 5c59a5baaed22b108c0a6c12 },{ _id: 5c59a5d5aed22b108c0a6c30 },{ _id: 5c59a5f2aed22b108c0a6c6a },{ _id: 5c59a620aed22b108c0a6cb4 },{ _id: 5c59a646aed22b108c0a6cf2 },{ _id: 5c59a65eaed22b108c0a6d24 },{ _id: 5c59a678aed22b108c0a6d67 },{ _id: 5c59ade3dddb231388e2d229 },{ _id: 5c5aef8be818d20f14bd5ace },{ _id: 5c5b09200699a311e0d8b2d2 },{ _id: 5c5b09530699a311e0d8b3ed },{ _id: 5c5b098d0699a311e0d8b559 },{ _id: 5c5c6a6d95baf510c00bdff5 },{ _id: 5c5c6ac795baf510c00be135 },{ _id: 5c5c6b0b95baf510c00be266 },{ _id: 5c5db1cb6de8f41058c44215 },{ _id: 5c5db22a6de8f41058c4434c },{ _id: 5c5ed6d16de8f41058c584c2 },{ _id: 5c5ed7a36de8f41058c584fc },{ _id: 5c5f089e6de8f41058c5c150 },{ _id: 5c5f08f26de8f41058c5c1aa },{ _id: 5c5f094b6de8f41058c5c206 },{ _id: 5c5f09916de8f41058c5c275 },{ _id: 5c5f15f76de8f41058c5ce92 },{ _id: 5c5f16806de8f41058c5cee0 },{ _id: 5c5f16c56de8f41058c5cf2b },{ _id: 5c61083646a0af1524971053 },{ _id: 5c6108c746a0af1524971124 },{ _id: 5c61091246a0af15249711a8 },{ _id: 5c61097646a0af152497126f },{ _id: 5c6109a346a0af152497130d },{ _id: 5c6179b146a0af1524987ded },{ _id: 5c617a3a46a0af1524987f70 },{ _id: 5c617a5a46a0af1524987fcb },{ _id: 5c617aa746a0af152498806e },{ _id: 5c617acc46a0af15249880d2 }","level":"error"}
+{"message":"C1 Started :20190212","level":"info"}
+{"message":"Total user :5403","level":"info"}
+{"message":"admaser find :{ _id: 5c51961037b9520c485658e7 },{ _id: 5c59a3dcaed22b108c0a6991 },{ _id: 5c59a3fcaed22b108c0a69c3 },{ _id: 5c59a418aed22b108c0a69e1 },{ _id: 5c59a431aed22b108c0a69f1 },{ _id: 5c59a44caed22b108c0a6a0e },{ _id: 5c59a464aed22b108c0a6a1e },{ _id: 5c59a47eaed22b108c0a6a2d },{ _id: 5c59a496aed22b108c0a6a3b },{ _id: 5c59a4afaed22b108c0a6a5a },{ _id: 5c59a4c7aed22b108c0a6a72 },{ _id: 5c59a4e1aed22b108c0a6a7e },{ _id: 5c59a4faaed22b108c0a6ab0 },{ _id: 5c59a531aed22b108c0a6af3 },{ _id: 5c59a54caed22b108c0a6b34 },{ _id: 5c59a567aed22b108c0a6b74 },{ _id: 5c59a58aaed22b108c0a6bb4 },{ _id: 5c59a5a2aed22b108c0a6be9 },{ _id: 5c59a5baaed22b108c0a6c12 },{ _id: 5c59a5d5aed22b108c0a6c30 },{ _id: 5c59a5f2aed22b108c0a6c6a },{ _id: 5c59a620aed22b108c0a6cb4 },{ _id: 5c59a646aed22b108c0a6cf2 },{ _id: 5c59a65eaed22b108c0a6d24 },{ _id: 5c59a678aed22b108c0a6d67 },{ _id: 5c59ade3dddb231388e2d229 },{ _id: 5c5aef8be818d20f14bd5ace },{ _id: 5c5b09200699a311e0d8b2d2 },{ _id: 5c5b09530699a311e0d8b3ed },{ _id: 5c5b098d0699a311e0d8b559 },{ _id: 5c5c6a6d95baf510c00bdff5 },{ _id: 5c5c6ac795baf510c00be135 },{ _id: 5c5c6b0b95baf510c00be266 },{ _id: 5c5db1cb6de8f41058c44215 },{ _id: 5c5db22a6de8f41058c4434c },{ _id: 5c5ed6d16de8f41058c584c2 },{ _id: 5c5ed7a36de8f41058c584fc },{ _id: 5c5f089e6de8f41058c5c150 },{ _id: 5c5f08f26de8f41058c5c1aa },{ _id: 5c5f094b6de8f41058c5c206 },{ _id: 5c5f09916de8f41058c5c275 },{ _id: 5c5f15f76de8f41058c5ce92 },{ _id: 5c5f16806de8f41058c5cee0 },{ _id: 5c5f16c56de8f41058c5cf2b },{ _id: 5c61083646a0af1524971053 },{ _id: 5c6108c746a0af1524971124 },{ _id: 5c61091246a0af15249711a8 },{ _id: 5c61097646a0af152497126f },{ _id: 5c6109a346a0af152497130d },{ _id: 5c6179b146a0af1524987ded },{ _id: 5c617a3a46a0af1524987f70 },{ _id: 5c617a5a46a0af1524987fcb },{ _id: 5c617aa746a0af152498806e },{ _id: 5c617acc46a0af15249880d2 }","level":"error"}
+{"message":"error line NO 95 : for User :-5c2cb530edc3130f8ca88495","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725738220438 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31ba457d77c50f30c1f987","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729328411182 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2f95a75ea372141c2cdde0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726698564388 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c04b7d77c50f30c1f9dc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725519405954 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2fa1985ea372141c2cddfd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726463118920 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31b4dd7d77c50f30c1f8fd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728073431922 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31d67f7d77c50f30c1fad6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726202894790 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31cc1f7d77c50f30c1fa44","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728240491824 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3214457d77c50f30c1fc67","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726376676962 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32f0237cc5a20f747c6a04","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728468277037 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32d26ad046730f005c1cb2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725490932370 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c330b733d18280de01705e1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728202426234 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c332ce739869e0f147b3ffa","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726046182981 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c337fe3e0637517f0fbeedc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728337730965 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c18dc80cef27913ccd8b926","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728479944835 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31bac37d77c50f30c1f991","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725546301786 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3048045ea372141c2cde59","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726092615421 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3091d45ea372141c2ce06c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726977205266 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c1ce7d77c50f30c1f9fe","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729376622890 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31a7457d77c50f30c1f80c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726371763834 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31b2bc7d77c50f30c1f8fb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728435250794 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c0477d77c50f30c1f9db","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728946684470 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31bebf7d77c50f30c1f9cf","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729055604388 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c305cd95ea372141c2cdee2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726443602610 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c321c0a7d77c50f30c1fc74","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725285167383 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c318a1c7d77c50f30c1f7f4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725251158172 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31833a7d77c50f30c1f70b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726091313832 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32e95d919214159c32f955","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726475356668 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32fea03d18280de016fe19","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729373986673 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c33026e3d18280de016fff8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728509248995 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32efca7cc5a20f747c69e9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727719065636 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3302b73d18280de0170062","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729246402535 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c332fad39869e0f147b4011","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726500511916 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3312133d18280de01709e8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726663787229 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c339e24e0637517f0fbef13","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728213876893 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c345392e7812a16cc66d3b2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726082990545 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c342a6128cd9b15fcb6300f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727068308374 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34c2df80e8720dec9cdf07","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728773989144 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34dfa141852c114862e063","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727725765641 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35a658438d8409f0cba7e4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727058944814 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35aa10438d8409f0cba82c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726042735719 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35b348438d8409f0cba8d6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728917723149 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34cedd41852c114862de94","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725972308417 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35a1ef438d8409f0cba737","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729084502956 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34e88e41852c114862e142","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728184226584 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34e0da41852c114862e094","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728407133232 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c360373f9f8b514403f37b2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728437369488 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3606c2f9f8b514403f3815","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725900132356 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36002ff9f8b514403f3781","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728907556880 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c361f5bf9f8b514403f3aab","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726609734347 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3638a2f9f8b514403f3d98","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727421626171 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36394cf9f8b514403f3db2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725621998420 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36391bf9f8b514403f3da5","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729111035610 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3766a3124b7d16c4a25244","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729411508524 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3772c1124b7d16c4a2540e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728115479348 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2f96315ea372141c2cdde2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727310461963 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3093595ea372141c2ce07a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726999800773 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31bf537d77c50f30c1f9d3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729227892967 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31b86d7d77c50f30c1f94d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726918168975 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c92f7d77c50f30c1fa2c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725809148068 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31bea67d77c50f30c1f9ce","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725360225234 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31f0d97d77c50f30c1fbd0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728450438466 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31b8617d77c50f30c1f943","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728121671909 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3226ec7d77c50f30c1fcf1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725946012040 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3234cb7d77c50f30c1fec9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729314857393 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c320d8c7d77c50f30c1fc42","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726404943902 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c5197d77c50f30c1fa11","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727417295982 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32efca7cc5a20f747c69e5","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726825269035 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32df4ad046730f005c348d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728193386250 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c331e3d3d18280de0170a22","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727456539013 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32efca7cc5a20f747c69e6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725953263497 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c335cb239869e0f147b430a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726551825485 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32d26ad046730f005c1cad","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728871772770 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c343776c468f014dcdd8126","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726941865943 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34895fe36dd70af0cef6bb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728017539600 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34abc180e8720dec9cdcea","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727876151622 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34bfea80e8720dec9cdec0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728992125069 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34e59541852c114862e128","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727382032505 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34dfee41852c114862e065","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725774399953 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35e1c9f9f8b514403f35f9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725897561999 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34ddbe41852c114862dffd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725279737487 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35fe15f9f8b514403f375b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727072487180 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c358642438d8409f0cba5b0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726114372283 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c362809f9f8b514403f3b47","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729299554911 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c362a69f9f8b514403f3be3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725830160844 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c362de8f9f8b514403f3c78","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728282613498 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3627b3f9f8b514403f3b35","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726118456542 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c37162c46c1850ad43fff65","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727907575380 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36fa4446c1850ad43ffe00","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727603350809 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c37060d46c1850ad43ffecd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729033796671 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c37416d7db9700fec79f9e2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728918011085 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3712aa46c1850ad43fff05","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727011936367 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c377b91adedb90a54cea722","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728093037164 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c389282b524f608206a1d0a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729390823845 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c381a91f8f00c1714ce3be0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728933951576 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c388879b524f608206a1c6d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726627660094 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38b70a0838cb113c639f0c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727315525436 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38d6d90838cb113c63a634","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728967819509 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3976128d23281210387229","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725192850182 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c39b368a9e9d4177caf0b4c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729183816040 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c399a47a9e9d4177caf096c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728156417035 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c398655a9e9d4177caf0784","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725195869985 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c39b4cba9e9d4177caf0b98","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725896750400 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c399e8ba9e9d4177caf09d7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726283652899 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3a02a1e3c14211f0da2bf9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729448493293 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b1e7f31ef620c4c8c1f3c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727467727843 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b379731ef620c4c8c20bd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726339670081 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b325b31ef620c4c8c2075","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728772798837 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c9a17d77c50f30c1fa34","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726339768286 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3c69039a4e260fa0bea897","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725940496174 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3c28341674c507489dc5b6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728084109791 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b293631ef620c4c8c1feb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728354983850 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e1709a3e8cc1280cf003d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726977070045 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ed9aabb941717ec339e6f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726813223103 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f2ee7354c740da404791a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725835249296 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4034528fdae80ab0464559","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727392182243 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34f93641852c114862e23b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728414528514 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3071a15ea372141c2cdf8a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728246153916 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31bb7c7d77c50f30c1f99f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728138716961 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31b17d7d77c50f30c1f80f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726339403102 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31b8657d77c50f30c1f944","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726304931266 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31ba2d7d77c50f30c1f986","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728260212275 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c0067d77c50f30c1f9d8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726617760638 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31e7727d77c50f30c1fbb4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726431783490 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c54a7d77c50f30c1fa14","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725232162691 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31eb407d77c50f30c1fbbd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729465465954 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31e0147d77c50f30c1fb19","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729424269584 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3222927d77c50f30c1fc88","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728416378386 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3216fb7d77c50f30c1fc6c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728196739558 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3227957d77c50f30c1fcf3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725372757825 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32ee977cc5a20f747c69c2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726887538997 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3230b47d77c50f30c1fdba","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725799155920 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c330a953d18280de01705df","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725318162739 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c331cb53d18280de0170a14","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726537354044 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c332a9339869e0f147b3ff6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725988620765 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c331cc83d18280de0170a15","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726362059472 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32eba6919214159c32fbdc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725773744777 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c33361039869e0f147b402c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729313530076 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c342337e0637517f0fbef34","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726135792914 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3468f5811f52113452ae08","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726746427586 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34377bc468f014dcdd8127","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727804668669 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c318b9d7d77c50f30c1f7f6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725219678889 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c340b5fe0637517f0fbef22","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726427665263 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34dc1f41852c114862dfcd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728037663456 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34ea2141852c114862e17b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729318284630 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34c2e280e8720dec9cdf0b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729262374661 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3596ae438d8409f0cba686","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729198425355 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34ddc241852c114862dffe","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728675673179 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c361b85f9f8b514403f3a6b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729159361337 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35c9d3438d8409f0cbaa51","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725710168851 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31d8497d77c50f30c1fae2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727847431047 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c360465f9f8b514403f37d0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726605912003 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c360184f9f8b514403f3785","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727753586884 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36280cf9f8b514403f3b48","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728715301170 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c362aa7f9f8b514403f3be7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728002660301 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36adfff9f8b514403f3f32","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725790612451 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c375a7288d8260170e2724b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726781721601 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36f42546c1850ad43ffdb7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725555360895 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c37139d46c1850ad43fff1a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727081676269 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36bff3f9f8b514403f3f99","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726016025133 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3857ef025d7e02dcc0f341","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727861783481 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38458a025d7e02dcc0f177","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725598240536 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38b7430838cb113c639f10","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725349921471 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3766f2124b7d16c4a25246","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726647080352 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c39c79de3c14211f0da2856","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727294952816 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3a0281e3c14211f0da2bf8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726244523278 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3aca702114a811c4832c1d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726007298149 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b222131ef620c4c8c1f86","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729207829363 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3c0f7e1674c507489dc483","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726104236653 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ca73f9a4e260fa0beac8b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729295520448 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3c64d19a4e260fa0bea885","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728753890838 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e06fdc1b3810e5013e905","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726688418657 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ec36cbb941717ec339936","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726483986320 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f1de0e5f00816d013e672","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725875647395 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ebe60ea4fa517304ffa18","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729299312141 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40253e8fdae80ab046437b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726026249815 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40b621626b5404a0d2d2fb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728241799951 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31bb397d77c50f30c1f99c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725773635418 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4129ed32e03e0e848abe00","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728572787249 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41471832e03e0e848ac168","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727140329908 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f3e5432d9ea06f8744394","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727624525694 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2f8c365ea372141c2cddd4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726625594158 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40b2ee626b5404a0d2d2cb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725931471313 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41533c32e03e0e848ac443","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728929978680 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41b1bd32e03e0e848ad73a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725357460754 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c408bf68fdae80ab0465443","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727047969738 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41805d32e03e0e848aced3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726859691557 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41acef32e03e0e848ad6b7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725650789796 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41e0cfa42a9a0b5c3b3374","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725809040342 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41b75832e03e0e848ad7a4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728327886788 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42b8f19a6b5a04a0b3e089","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725519415282 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4202f6a42a9a0b5c3b3e83","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728631951303 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42ad6b9a6b5a04a0b3db91","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725628327071 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4469ebf8c63c0e58639b85","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726131499487 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44b6b7f8c63c0e5863b3aa","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728850635568 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c43244b8df82a1554b2ce96","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725961288130 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4410560a01eb0d449ca665","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728171731164 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4530d3f8c63c0e5863b65d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727729400594 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c347c154f802415844fd404","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727522916957 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c348bf5e36dd70af0cef6bf","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729172424770 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c349de680e8720dec9cdbe9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728004332884 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34ab9080e8720dec9cdce6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727690770515 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34eacc41852c114862e19c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725582176729 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c346896811f52113452ae05","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727033387963 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35a031438d8409f0cba6f6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725604143441 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c359f24438d8409f0cba6e2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726699339429 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35679d41852c114862e313","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725734240692 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35b9ea438d8409f0cba982","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727002513454 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35e083f9f8b514403f35bf","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726503131595 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35fa58f9f8b514403f371e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728812709249 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3605d8f9f8b514403f3803","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726368523834 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35e349f9f8b514403f3603","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727184906786 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36b91cf9f8b514403f3f56","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727701857532 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c361fbbf9f8b514403f3aac","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728176641454 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c362850f9f8b514403f3b49","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726220475151 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36b971f9f8b514403f3f6b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728749737729 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c37121346c1850ad43ffeff","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729034800500 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c371fc346c1850ad43fffe0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729342879414 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36f7fc46c1850ad43ffdd3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728383613697 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c363a21f9f8b514403f3de9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728328106302 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c337db8e0637517f0fbeed7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726876752752 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3817c2f8f00c1714ce3bdc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727004126224 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c377dfcadedb90a54cea82c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728049993018 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c387a11b524f608206a1bd4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727870218382 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38c2240838cb113c63a158","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725759663364 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c385210025d7e02dcc0f297","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728640824450 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38bf2c0838cb113c63a07a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726661792491 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38cbbd0838cb113c63a37c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728552879514 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38027cf8f00c1714ce3a71","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727385466033 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38ca020838cb113c63a324","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725390456742 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c381822f8f00c1714ce3bdd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727973406375 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c397faea9e9d4177caf06f1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725700547827 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3acd382114a811c4832ca5","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729100991998 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b282a31ef620c4c8c1fe7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727508310675 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b3ed731ef620c4c8c219d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725607295154 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c38178ff8f00c1714ce3bda","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729406028309 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3cb8229a4e260fa0beaf1e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728007816026 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ccbcd9a4e260fa0beb214","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729169248165 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3cb6759a4e260fa0beaefe","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725919833289 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3de92c7ebbb90c7845e889","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729467132612 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f1547e5f00816d013e5a1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726425874129 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f5ac4d531481520e2dc49","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727448455838 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4056cd8fdae80ab0464b83","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727925524504 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b38a631ef620c4c8c20d6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728783505320 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c405c3f8fdae80ab0464cd7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726809966591 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c409a70626b5404a0d2cdc9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727009238415 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4068cd8fdae80ab0464f61","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728120428792 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40c77ee6074a1738ac44c9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727061302368 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e05c8c1b3810e5013e818","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729015674701 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41b3ce32e03e0e848ad774","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725825985268 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41e916a42a9a0b5c3b364a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727870109209 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41714a32e03e0e848acb23","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728004622934 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42c34d9a6b5a04a0b3e53b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726464094014 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41b3e932e03e0e848ad775","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729121968933 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c43135a8df82a1554b2ca31","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726637020770 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41607a32e03e0e848ac7a2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728569203860 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41df8aa42a9a0b5c3b32a9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727049524222 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c436f278df82a1554b2df7f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726270130045 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c444613f8c63c0e58638d3d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726821210842 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42a387f86e15158c6e31b0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725509023251 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4316b68df82a1554b2caab","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725949196272 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c43f96c1cb1cc17702353f9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727936674619 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c7d57d77c50f30c1fa22","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725607405137 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42f8d39a6b5a04a0b3f69c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729183610428 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4353ae8df82a1554b2db70","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727286996919 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44763af8c63c0e5863a053","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725736343815 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c456060f8c63c0e5863ce7b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726315422784 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4556a7f8c63c0e5863c802","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728764034770 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c48ef8c63c0e586406b4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726645510965 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c442f4df8c63c0e58638514","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728617093948 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c39a8e1a9e9d4177caf0a7c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726150927125 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44c31ff8c63c0e5863b443","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728122638559 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42c2229a6b5a04a0b3e4c2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728340268182 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4327658df82a1554b2cf81","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729252070459 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c447c0af8c63c0e5863a373","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727028879559 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45579af8c63c0e5863c8a1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725763986117 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c7cff8c63c0e5864086b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725244394695 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46952b39c7b109cc20fcd2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726113353441 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f35a8354c740da40479cb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726093052496 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44b7b7f8c63c0e5863b3ef","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726629536153 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45725cf8c63c0e5863d9f8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729022980383 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c459e3ef8c63c0e5863f340","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726309970717 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c458185f8c63c0e5863e574","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728007964948 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46cd875bbce00c544bbd7c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725597455604 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3877cdb524f608206a1bcf","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726438302513 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3aea8f31ef620c4c8c1d66","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727050447678 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b329c31ef620c4c8c2076","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727625504677 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3783faf8f00c1714ce386a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726568248354 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b7da87d54870668c07979","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725512921994 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3dc9a55250b312a03d0639","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728012567793 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ddcf57ebbb90c7845e496","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729000510786 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ec62dbb941717ec339999","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726358355830 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e00903ce20b1338db896a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728699558312 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3dfea93ce20b1338db88f4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726731572606 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e10a54f497e11b424428c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728590596462 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3494d880e8720dec9cdb10","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728495994129 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e084bc1b3810e5013e951","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728593817334 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c400bdec0462812d859ed20","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725894810858 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c408bc08fdae80ab0465441","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726335219113 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f3b2432d9ea06f8744320","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728550818426 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c406a5b8fdae80ab0464f86","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725715540392 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3f162de5f00816d013e5b2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725263453058 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40c262e6074a1738ac44b2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727155413033 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40969d626b5404a0d2cd4a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727749716065 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c414c0032e03e0e848ac210","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729403828343 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4198f732e03e0e848ad4a1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727402718414 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c415b8832e03e0e848ac6d7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726331124334 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41ba5c32e03e0e848ad8b6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725232840193 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41fb59a42a9a0b5c3b3d2d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726998783885 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c417e6232e03e0e848ace2b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728302595085 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41dc92a42a9a0b5c3b31e3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725293520204 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c417fc932e03e0e848ace90","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728780807136 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42044da42a9a0b5c3b3f54","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725459783387 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c445b80f8c63c0e586393a6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728901011962 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42c4c59a6b5a04a0b3e5db","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727443790425 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c354d7c41852c114862e291","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727212404637 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4425038920c403e4600633","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728897476676 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34e0f941852c114862e0a9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728437446940 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c455bd7f8c63c0e5863caff","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725931637499 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c431b108df82a1554b2cc02","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726784075520 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c43eac61cb1cc1770235255","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727746869443 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c457713f8c63c0e5863dd23","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728738221260 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45791bf8c63c0e5863df21","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726460914257 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45cda9f8c63c0e58640bc6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725597397222 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4434bcf8c63c0e5863867c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729294303146 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c447a71f8c63c0e5863a274","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728567458696 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c454d93f8c63c0e5863c2c0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727731883438 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45b2e3f8c63c0e5863fc90","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725950331857 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4453adf8c63c0e58639060","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728769214267 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c448108f8c63c0e5863a59b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725984313684 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4569b6f8c63c0e5863d509","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727081715489 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45d899f8c63c0e586414ba","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728310085598 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c469ef339c7b109cc2100de","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727590610169 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4493d5f8c63c0e5863adf1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729146226955 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c446aadf8c63c0e58639bdf","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727445825151 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45a9f8f8c63c0e5863f76a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729266748436 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c446d17f8c63c0e58639dd4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726749924966 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c469f1a39c7b109cc2100eb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726706323134 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4699ef39c7b109cc20ff48","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727003211083 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c471ff7ba2e560fcc859084","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728387165391 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45cd65f8c63c0e58640bb5","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728109965718 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45da46f8c63c0e5864162f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728242837562 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4688a839c7b109cc20fa1d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727093083829 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c480833cc411f03c4f6ebd9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727164962322 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c48311ccc411f03c4f6fda7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726646064765 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4848e9cc411f03c4f702dd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727732108081 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45ecedf8c63c0e58641f5e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728848660101 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46c1d95bbce00c544bb91c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726073731128 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4717f7ba2e560fcc858f5e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727455668600 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c47f81dcc411f03c4f6e59f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725503054935 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4892afb06bef0e4c9f918d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727319508082 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2f94405ea372141c2cddd9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727318711991 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40226e8fdae80ab046434a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728677900878 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4058df8fdae80ab0464ba4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727811428622 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c404de88fdae80ab0464a0d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725748331903 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40b6cd626b5404a0d2d30d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728583476802 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c415ec032e03e0e848ac730","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728957367931 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41deafa42a9a0b5c3b3268","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728502651833 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c40a20d626b5404a0d2cf92","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726564942907 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41877132e03e0e848ad1dd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727157142378 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41d82fa42a9a0b5c3b30cf","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728213531766 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41facba42a9a0b5c3b3cea","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727663629893 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42ca419a6b5a04a0b3e819","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726322532330 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4303b68df82a1554b2c664","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726793932776 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41e6e0a42a9a0b5c3b35bc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728057223883 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4300a58df82a1554b2c4cc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726517839171 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4424358920c403e4600607","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729303298315 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42109ca42a9a0b5c3b40eb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727459602734 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c42fe438df82a1554b2c420","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728883831889 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c436c068df82a1554b2deb3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727115005570 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c447404f8c63c0e58639ed9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728354005274 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c454f63f8c63c0e5863c3cd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728412534479 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41424232e03e0e848ac0c1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727771681349 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4330e38df82a1554b2d2b6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725235060041 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c443313f8c63c0e5863863d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726885845281 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c455519f8c63c0e5863c73c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729333566473 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c232f8c63c0e586405d8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728082537749 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45d370f8c63c0e5864103a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725659776329 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44266c8920c403e4600664","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727350474358 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c449b6af8c63c0e5863af25","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726574466949 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c457a31f8c63c0e5863e04a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726278888376 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c43cf8c63c0e5864067d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726156146936 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c451eb7f8c63c0e5863b538","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726327834052 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c3caf8c63c0e58640654","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725703101529 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45f742f8c63c0e58642a94","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727638370865 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44a38af8c63c0e5863b0ca","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725324871195 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45685ff8c63c0e5863d459","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726740073740 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c425f57f86e15158c6e2f86","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727688110866 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45bdbbf8c63c0e58640450","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725424170138 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45f135f8c63c0e58642204","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725853616668 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46c50b5bbce00c544bba63","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726326651761 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c459d7ef8c63c0e5863f310","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726510882603 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45fe69f8c63c0e58642f9d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725695519485 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46ecf05bbce00c544bc36e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725530180903 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c474bf5cc411f03c4f6c635","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729241508379 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c47f9e5cc411f03c4f6e620","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728297365673 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46019ff8c63c0e58643272","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729292300361 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46d63b5bbce00c544bbed0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725911157266 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c449c27f8c63c0e5863af41","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727154817689 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c483959cc411f03c4f6fec9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726388402611 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4894bdb06bef0e4c9f9273","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725338347399 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46add239c7b109cc210715","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727922488718 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c472663cc411f03c4f6bf8a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729248652869 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4807cfcc411f03c4f6ebc0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729122401140 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c471843ba2e560fcc858f62","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729183275188 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4879c8b06bef0e4c9f8871","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726835348709 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c456707f8c63c0e5863d417","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727454938359 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3df2877ebbb90c7845ebc8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728752860883 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c322b767d77c50f30c1fd22","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726448870529 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c445a43f8c63c0e58639364","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726282656797 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4498baf8c63c0e5863aed6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725504720527 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4554e9f8c63c0e5863c71c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725268508472 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4574cbf8c63c0e5863db02","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728744784753 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45b189f8c63c0e5863fc17","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725695158017 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45e249f8c63c0e58641bf9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728173813219 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c446f4af8c63c0e58639e59","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727314042083 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c44b822f8c63c0e5863b409","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726614910956 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45724af8c63c0e5863d9f1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729399155122 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45ec0af8c63c0e58641f47","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726657993735 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45f214f8c63c0e586422fd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726691589017 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46a24639c7b109cc210234","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725981159084 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c447600f8c63c0e58639ff8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726929697097 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4584f3f8c63c0e5863e7ec","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728915725330 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c459577f8c63c0e5863f057","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727508361590 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45dc2df8c63c0e58641746","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729045683918 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46b06a39c7b109cc210833","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728959360149 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4598d2f8c63c0e5863f20a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728911146390 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45ce8cf8c63c0e58640c5f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725445600908 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45f32df8c63c0e5864244d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725357278462 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46980739c7b109cc20fe53","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727067111258 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4811c8cc411f03c4f6eec6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726941629920 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c708f8c63c0e5864082d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729286367468 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4740f8cc411f03c4f6c43b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728966105311 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3a1976e3c14211f0da2d95","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725764921698 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4887eeb06bef0e4c9f8cc9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727276502943 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46a92d39c7b109cc210376","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727460457580 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c47054cba2e560fcc858cbc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726567916180 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46e0c85bbce00c544bc0e4","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725369262204 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4808cbcc411f03c4f6ec08","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725418621591 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45bcfcf8c63c0e58640420","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729126273373 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45a3bef8c63c0e5863f48f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727545685774 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4601cbf8c63c0e5864329f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727257933040 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c471789ba2e560fcc858f50","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726305675863 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c475969cc411f03c4f6c7ab","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728803275644 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c48250bcc411f03c4f6f7fb","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728372769269 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c483bf1cc411f03c4f6ff5a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728758917177 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4694b439c7b109cc20fc96","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729179572760 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45a9ddf8c63c0e5863f74c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725460582177 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c488caab06bef0e4c9f8f01","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727398139996 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c47ff6ecc411f03c4f6e89f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727188722420 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45fb71f8c63c0e58642d49","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727865351584 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b3ea831ef620c4c8c219c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727203320689 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4854b6aea7fa0e3c603600","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728462599418 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2fa6a25ea372141c2cde4c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725437409103 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4728a7cc411f03c4f6c02a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728961615413 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c485ad5aea7fa0e3c603777","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726098019686 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c48905eb06bef0e4c9f903f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727041165792 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c486d42b06bef0e4c9f8421","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728602133563 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4544acf8c63c0e5863bb55","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725503795392 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c48a301b06bef0e4c9f95f7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729265273676 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c467f5f39c7b109cc20f7f8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727650455185 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c47dac0cc411f03c4f6d641","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726527965438 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35ae88438d8409f0cba838","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729438142910 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c474592cc411f03c4f6c53f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728922772332 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c48a86fb06bef0e4c9f975a","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729185523609 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c474971cc411f03c4f6c5df","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726860106385 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c46959f39c7b109cc20fd0e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729137570958 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c48a258b06bef0e4c9f95d8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728615038320 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c492cb8b06bef0e4c9f9cff","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728932591309 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c495829dea26d126882b476","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727628946335 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3225747d77c50f30c1fce7","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725697507637 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c39e94ae3c14211f0da2a9f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729407877301 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c303b5f5ea372141c2cde50","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726563888659 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c491d71b06bef0e4c9f9b22","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725928542333 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35a0d7438d8409f0cba70f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728158870067 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c498151dea26d126882b968","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726714380499 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45c2bbf8c63c0e5864060b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729259934721 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c379485f8f00c1714ce397c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729232895662 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c484655cc411f03c4f7020d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729119282344 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c488f43b06bef0e4c9f8fed","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727145306551 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c2fa37c5ea372141c2cde04","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726407680976 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c417fef32e03e0e848ace9f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729193569303 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c493f80b06bef0e4c9f9ebc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727536329712 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c497b8bdea26d126882b90f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726792466371 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c49bdeedea26d126882c2d9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726946482029 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c34dcab41852c114862dfd6","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727366490491 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c445c1af8c63c0e586393fc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727813417017 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c499878dea26d126882bd3b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728886488501 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c496d17dea26d126882b6fc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725544201778 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ede85bb941717ec339f85","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726388902942 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31c9117d77c50f30c1fa27","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726532591759 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4ac33ae26fd315901e0c1d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725576672928 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4ad00be26fd315901e108b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727348901178 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3d8a775250b312a03cfeb3","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727718476562 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4600d2f8c63c0e586431a2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728502673699 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c39c944e3c14211f0da2873","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728929241193 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32dce7d046730f005c2ea2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728190547155 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c347010075bef01a4986b83","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727768951872 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45ee0ef8c63c0e58641fa9","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725478954909 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3e0256c1b3810e5013e6f1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728583992864 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c4032158fdae80ab046451c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729288519290 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41472432e03e0e848ac16c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726843692649 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c31d43b7d77c50f30c1face","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727043762932 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633e65d572480decd9e6d4,\n  nuser_id: 5c4dd37d75d52e0b7c6314c6,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:09.538Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e65d572480decd9e6d5,\n  nuser_id: 5c4e92ed75d52e0b7c634603,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:09.639Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e65d572480decd9e6d6,\n  nuser_id: 5c558f6dc719440168a03177,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:09.768Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e65d572480decd9e6d7,\n  nuser_id: 5c4e993375d52e0b7c634b72,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:09.840Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6d8,\n  nuser_id: 5c4dd0b075d52e0b7c631271,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.091Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6d9,\n  nuser_id: 5c4ddcc975d52e0b7c6317c9,\n  achive_target: 100,\n  total_ads: 9,\n  total_viewed_ads: 9,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.228Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6da,\n  nuser_id: 5c4dd4ac75d52e0b7c63153b,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.352Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6db,\n  nuser_id: 5c4dd1ee75d52e0b7c63134d,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.424Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6dc,\n  nuser_id: 5c627219c4ec6917f81dff52,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.708Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6dd,\n  nuser_id: 5c4e7f4e75d52e0b7c633549,\n  achive_target: 0,\n  total_ads: 19,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.834Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e66d572480decd9e6de,\n  nuser_id: 5c4ac2c8e26fd315901e0be8,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:10.965Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e67d572480decd9e6df,\n  nuser_id: 5c4e5b6d75d52e0b7c632049,\n  achive_target: 50,\n  total_ads: 10,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:11.008Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e67d572480decd9e6e0,\n  nuser_id: 5c6146ed46a0af15249802e8,\n  achive_target: 0,\n  total_ads: 47,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:11.331Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e67d572480decd9e6e1,\n  nuser_id: 5c4ecbaf75d52e0b7c636f95,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:11.607Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e67d572480decd9e6e2,\n  nuser_id: 5c4db31b75d52e0b7c630567,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:11.665Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e67d572480decd9e6e3,\n  nuser_id: 5c4e8b8975d52e0b7c63405b,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:11.957Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e68d572480decd9e6e4,\n  nuser_id: 5c61814246a0af1524989239,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:12.067Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e68d572480decd9e6e5,\n  nuser_id: 5c4dd11875d52e0b7c6312c6,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:12.130Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e68d572480decd9e6e6,\n  nuser_id: 5c4db0e275d52e0b7c6303cb,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:12.191Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e68d572480decd9e6e7,\n  nuser_id: 5c4e776e75d52e0b7c63304e,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:12.544Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e68d572480decd9e6e8,\n  nuser_id: 5c4db78375d52e0b7c630783,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:12.619Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e68d572480decd9e6e9,\n  nuser_id: 5c4eb33a75d52e0b7c635ea0,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:12.684Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6ea,\n  nuser_id: 5c4dc12375d52e0b7c630c58,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.137Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6eb,\n  nuser_id: 5c4dcf7475d52e0b7c631247,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.226Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6ec,\n  nuser_id: 5c4e807875d52e0b7c6335f7,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.266Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6ed,\n  nuser_id: 5c4e7ec775d52e0b7c6334f0,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.353Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6ee,\n  nuser_id: 5c4e823b75d52e0b7c6338c1,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.723Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6ef,\n  nuser_id: 5c5f93d56de8f41058c614da,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.797Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e69d572480decd9e6f0,\n  nuser_id: 5c4dc43b75d52e0b7c630e07,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:13.893Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6ad572480decd9e6f2,\n  nuser_id: 5c482bc9cc411f03c4f6fb87,\n  achive_target: 50,\n  total_ads: 10,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:14.389Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6ad572480decd9e6f3,\n  nuser_id: 5c4e637c75d52e0b7c63221e,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:14.668Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c3996b4a9e9d4177caf0928","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729060703045 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633e6ad572480decd9e6f4,\n  nuser_id: 5c4dddc475d52e0b7c63180b,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:14.870Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c3dce325250b312a03d0698","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727789454967 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633e6bd572480decd9e6f5,\n  nuser_id: 5c4eb81675d52e0b7c6362ef,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:15.097Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6bd572480decd9e6f6,\n  nuser_id: 5c50836cec5c340f9423e001,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:15.238Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6bd572480decd9e6f7,\n  nuser_id: 5c4dc5df75d52e0b7c630eae,\n  achive_target: 0,\n  total_ads: 50,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:15.473Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6bd572480decd9e6f8,\n  nuser_id: 5c5157bd37b9520c48564448,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:15.555Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6bd572480decd9e6f9,\n  nuser_id: 5c519d4c37b9520c48565a68,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:15.853Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6cd572480decd9e6fa,\n  nuser_id: 5c4df23975d52e0b7c631b0a,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:16.070Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6cd572480decd9e6fb,\n  nuser_id: 5c4eb29b75d52e0b7c635e74,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:16.160Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6cd572480decd9e6fc,\n  nuser_id: 5c4eb07a75d52e0b7c635c5b,\n  achive_target: 0,\n  total_ads: 29,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:16.230Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6dd572480decd9e6fd,\n  nuser_id: 5c4b048fe26fd315901e214e,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:17.369Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6dd572480decd9e6fe,\n  nuser_id: 5c5bc79eaaa5db08c4fed80c,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:17.679Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6dd572480decd9e6ff,\n  nuser_id: 5c4ea44c75d52e0b7c63532c,\n  achive_target: 0,\n  total_ads: 23,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:17.866Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6dd572480decd9e700,\n  nuser_id: 5c62926dc4ec6917f81e5883,\n  achive_target: 66.66666666666667,\n  total_ads: 54,\n  total_viewed_ads: 36,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:17.966Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6ed572480decd9e701,\n  nuser_id: 5c4efe2a75d52e0b7c6395eb,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:18.096Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6ed572480decd9e702,\n  nuser_id: 5c4eac2575d52e0b7c635847,\n  achive_target: 0,\n  total_ads: 19,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:18.422Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6ed572480decd9e703,\n  nuser_id: 5c4f198a05894507a469a8b2,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:18.667Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6ed572480decd9e704,\n  nuser_id: 5c4e8e6075d52e0b7c634319,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:18.708Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6fd572480decd9e705,\n  nuser_id: 5c4ecdcc75d52e0b7c6371cf,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:19.093Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6fd572480decd9e706,\n  nuser_id: 5c4e99f675d52e0b7c634c3d,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:19.243Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6fd572480decd9e707,\n  nuser_id: 5c4f50bb05894507a469c044,\n  achive_target: 50,\n  total_ads: 10,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:19.367Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6fd572480decd9e708,\n  nuser_id: 5c4dcbd375d52e0b7c6310c4,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:19.761Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6fd572480decd9e709,\n  nuser_id: 5c4ddcb075d52e0b7c6317b9,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:19.852Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e6fd572480decd9e70a,\n  nuser_id: 5c50352b1a291703701f1408,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:19.942Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e70d572480decd9e70b,\n  nuser_id: 5c4d4f0075d52e0b7c62c680,\n  achive_target: 0,\n  total_ads: 38,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:20.329Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e70d572480decd9e70c,\n  nuser_id: 5c4ea55875d52e0b7c6353ea,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:20.852Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e71d572480decd9e70e,\n  nuser_id: 5c5002f387e30306242225bf,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:21.101Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e71d572480decd9e710,\n  nuser_id: 5c5037f2ec5c340f9423bb57,\n  achive_target: 0,\n  total_ads: 21,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:21.961Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e72d572480decd9e711,\n  nuser_id: 5c4d878575d52e0b7c62ebf7,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:22.047Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e72d572480decd9e712,\n  nuser_id: 5c62790cc4ec6917f81e1a03,\n  achive_target: 3.7037037037037037,\n  total_ads: 54,\n  total_viewed_ads: 2,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:22.335Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e72d572480decd9e713,\n  nuser_id: 5c4e888175d52e0b7c633e26,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:22.412Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e72d572480decd9e714,\n  nuser_id: 5c4f16dc05894507a469a697,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:22.980Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e73d572480decd9e715,\n  nuser_id: 5c4f0f6975d52e0b7c63a3d7,\n  achive_target: 0,\n  total_ads: 49,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:23.211Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633e73d572480decd9e717,\n  nuser_id: 5c4dacdd75d52e0b7c6301a5,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:45:23.953Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c3b601731ef620c4c8c2332","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729161337553 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c456019f8c63c0e5863ce49","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728119718300 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3b475a31ef620c4c8c21f2","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729468227101 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ca0869a4e260fa0beab6d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727653550891 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c33325439869e0f147b401e","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728647532146 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45f83bf8c63c0e58642b68","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727167798511 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3c71899a4e260fa0bea8b8","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726071992399 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c41efbba42a9a0b5c3b37ef","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725404938976 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c389ae32d4dcd17b0d36654","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725848789995 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633ea0d572480decd9e722,\n  nuser_id: 5c4e9bca75d52e0b7c634d54,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:08.393Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ea1d572480decd9e727,\n  nuser_id: 5c361ac8f9f8b514403f3a25,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:09.502Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c45f147f8c63c0e58642209","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725738298978 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633ea2d572480decd9e72c,\n  nuser_id: 5c4f015c75d52e0b7c639874,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:10.163Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c35c73e438d8409f0cbaa25","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726942387795 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633eb2d572480decd9e72e,\n  nuser_id: 5c52f19a0933bf00589487f8,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:26.453Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eb3d572480decd9e730,\n  nuser_id: 5c530f650933bf005894a107,\n  achive_target: 0,\n  total_ads: 21,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:27.362Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eb3d572480decd9e731,\n  nuser_id: 5c51a2e737b9520c48565cbb,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:27.362Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eb4d572480decd9e732,\n  nuser_id: 5c516e5137b9520c48564cd4,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:28.434Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eb5d572480decd9e733,\n  nuser_id: 5c5326990933bf005894b6df,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:29.260Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eb7d572480decd9e735,\n  nuser_id: 5c505be1ec5c340f9423ca81,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:31.024Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ebad572480decd9e736,\n  nuser_id: 5c513bb337b9520c485634bc,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:34.926Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ebad572480decd9e738,\n  nuser_id: 5c51a24637b9520c48565c4a,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:34.927Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c34309ac7c0ec08308db6c1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728302727162 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633ebfd572480decd9e73d,\n  nuser_id: 5c5187b037b9520c48565546,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:39.071Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ec1d572480decd9e741,\n  nuser_id: 5c51c71b37b9520c48566723,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:41.861Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ec3d572480decd9e744,\n  nuser_id: 5c52cc7b9bb0f510f04b1ca3,\n  achive_target: 0,\n  total_ads: 48,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:43.128Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c36b147f9f8b514403f3f37","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729232472176 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633ec6d572480decd9e745,\n  nuser_id: 5c52ffd70933bf0058949284,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:46.372Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ec8d572480decd9e748,\n  nuser_id: 5c517b7337b9520c4856510c,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:48.309Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ecad572480decd9e74a,\n  nuser_id: 5c5465470933bf005895d161,\n  achive_target: 0,\n  total_ads: 19,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:50.852Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ecad572480decd9e74b,\n  nuser_id: 5c55b94a27bd8a1128fa0924,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:50.853Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ecdd572480decd9e74d,\n  nuser_id: 5c5295509bb0f510f04ae368,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:53.353Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eced572480decd9e74e,\n  nuser_id: 5c38d4c10838cb113c63a592,\n  achive_target: 80,\n  total_ads: 10,\n  total_viewed_ads: 8,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:54.340Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eced572480decd9e74f,\n  nuser_id: 5c56887755811b10cce70732,\n  achive_target: 0,\n  total_ads: 29,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:54.671Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ecfd572480decd9e750,\n  nuser_id: 5c56a30355811b10cce72ca3,\n  achive_target: 100,\n  total_ads: 19,\n  total_viewed_ads: 19,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:55.490Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed0d572480decd9e751,\n  nuser_id: 5c44310ef8c63c0e586385d7,\n  achive_target: 0,\n  total_ads: 50,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:56.110Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed0d572480decd9e752,\n  nuser_id: 5c517c4437b9520c48565134,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:56.480Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed1d572480decd9e753,\n  nuser_id: 5c46c6315bbce00c544bbb3b,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:57.217Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed1d572480decd9e754,\n  nuser_id: 5c51570637b9520c485643b2,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:57.502Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed1d572480decd9e755,\n  nuser_id: 5c51c32537b9520c4856661a,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:57.943Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed2d572480decd9e756,\n  nuser_id: 5c5419090933bf0058958980,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:58.522Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed3d572480decd9e757,\n  nuser_id: 5c52917a9bb0f510f04adce6,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:46:59.359Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed4d572480decd9e758,\n  nuser_id: 5c52b6079bb0f510f04b0e5c,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:00.022Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed4d572480decd9e759,\n  nuser_id: 5c52fc5b0933bf005894901a,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:00.964Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed5d572480decd9e75a,\n  nuser_id: 5c528f209bb0f510f04ad90c,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:01.787Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed6d572480decd9e75c,\n  nuser_id: 5c52daf69bb0f510f04b27eb,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:02.483Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed7d572480decd9e75d,\n  nuser_id: 5c53001b0933bf0058949303,\n  achive_target: 0,\n  total_ads: 44,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:03.136Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed7d572480decd9e75e,\n  nuser_id: 5c52f5330933bf005894899a,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:03.793Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed8d572480decd9e75f,\n  nuser_id: 5c556df4c719440168a0025a,\n  achive_target: 0,\n  total_ads: 47,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:04.489Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed8d572480decd9e760,\n  nuser_id: 5c52650b9bb0f510f04a9072,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:04.900Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ed9d572480decd9e761,\n  nuser_id: 5c53fba60933bf0058956eca,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:05.597Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edad572480decd9e762,\n  nuser_id: 5c541b250933bf0058958ade,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:06.088Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edad572480decd9e763,\n  nuser_id: 5c5431030933bf005895a07c,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:06.498Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edbd572480decd9e764,\n  nuser_id: 5c5450e20933bf005895befb,\n  achive_target: 66.0377358490566,\n  total_ads: 53,\n  total_viewed_ads: 35,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:07.271Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edbd572480decd9e765,\n  nuser_id: 5c486b04b06bef0e4c9f8399,\n  achive_target: 100,\n  total_ads: 17,\n  total_viewed_ads: 17,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:07.763Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edcd572480decd9e766,\n  nuser_id: 5c53e2120933bf00589546ae,\n  achive_target: 0,\n  total_ads: 29,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:08.333Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eddd572480decd9e768,\n  nuser_id: 5c559d6bc719440168a04149,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:09.072Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eddd572480decd9e769,\n  nuser_id: 5c5555c40933bf005896abc2,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:09.767Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eded572480decd9e76a,\n  nuser_id: 5c56817a55811b10cce6ffd4,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:10.546Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eded572480decd9e76b,\n  nuser_id: 5c45c60bf8c63c0e586407c2,\n  achive_target: 50,\n  total_ads: 10,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:10.961Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edfd572480decd9e76c,\n  nuser_id: 5c559fbbc719440168a0449c,\n  achive_target: 31.57894736842105,\n  total_ads: 19,\n  total_viewed_ads: 6,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:11.450Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633edfd572480decd9e76d,\n  nuser_id: 5c55cce427bd8a1128fa1d97,\n  achive_target: 20,\n  total_ads: 5,\n  total_viewed_ads: 1,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:11.977Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee0d572480decd9e76e,\n  nuser_id: 5c567acc55811b10cce6f97f,\n  achive_target: 0,\n  total_ads: 21,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:12.837Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee1d572480decd9e76f,\n  nuser_id: 5c5691f255811b10cce7108d,\n  achive_target: 30,\n  total_ads: 10,\n  total_viewed_ads: 3,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:13.450Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee2d572480decd9e771,\n  nuser_id: 5c5671a227bd8a1128fa4e66,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:14.476Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee2d572480decd9e772,\n  nuser_id: 5c5297079bb0f510f04ae5e7,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:14.928Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee3d572480decd9e773,\n  nuser_id: 5c56a74155811b10cce72e5e,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:15.626Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee4d572480decd9e774,\n  nuser_id: 5c56d3f655811b10cce74099,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:16.370Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee4d572480decd9e775,\n  nuser_id: 5c56e42755811b10cce7468d,\n  achive_target: 11.11111111111111,\n  total_ads: 9,\n  total_viewed_ads: 1,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:16.860Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee5d572480decd9e776,\n  nuser_id: 5c57223843360513c887caab,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:17.479Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee6d572480decd9e777,\n  nuser_id: 5c56e16955811b10cce743b6,\n  achive_target: 0,\n  total_ads: 17,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:18.052Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee7d572480decd9e778,\n  nuser_id: 5c56f74055811b10cce75157,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:19.359Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee9d572480decd9e77a,\n  nuser_id: 5c51ba8c37b9520c4856636d,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:21.005Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ee9d572480decd9e77c,\n  nuser_id: 5c51c4da37b9520c48566683,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:21.539Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eead572480decd9e77d,\n  nuser_id: 5c525e379bb0f510f04a864c,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:22.034Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eead572480decd9e77e,\n  nuser_id: 5c52ff3a0933bf0058949193,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:22.899Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eebd572480decd9e77f,\n  nuser_id: 5c529da39bb0f510f04af0cf,\n  achive_target: 0,\n  total_ads: 50,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:23.479Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eebd572480decd9e780,\n  nuser_id: 5c528ad09bb0f510f04ad0d7,\n  achive_target: 0,\n  total_ads: 36,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:23.968Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eecd572480decd9e781,\n  nuser_id: 5c5547c90933bf00589692fa,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:24.586Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eedd572480decd9e782,\n  nuser_id: 5c53debf0933bf00589542b1,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:25.452Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eeed572480decd9e783,\n  nuser_id: 5c544c0f0933bf005895b971,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:26.282Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eeed572480decd9e784,\n  nuser_id: 5c542fd20933bf0058959f14,\n  achive_target: 0,\n  total_ads: 44,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:26.902Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633eefd572480decd9e785,\n  nuser_id: 5c53e8f30933bf0058955190,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:27.761Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef0d572480decd9e786,\n  nuser_id: 5c5542390933bf005896844c,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:28.507Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef1d572480decd9e788,\n  nuser_id: 5c5454a50933bf005895c1ab,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:29.537Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef2d572480decd9e78a,\n  nuser_id: 5c55365a0933bf00589671a0,\n  achive_target: 0,\n  total_ads: 49,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:30.975Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef4d572480decd9e78d,\n  nuser_id: 5c5587b6c719440168a02754,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:32.936Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef6d572480decd9e78e,\n  nuser_id: 5c56e91255811b10cce74997,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:34.047Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef6d572480decd9e790,\n  nuser_id: 5c567fe255811b10cce6ff63,\n  achive_target: 0,\n  total_ads: 25,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:34.827Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef7d572480decd9e791,\n  nuser_id: 5c56840855811b10cce701ce,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:35.403Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c3598b9438d8409f0cba69b","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726389049012 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633ef9d572480decd9e794,\n  nuser_id: 5c57a1e143360513c887e9da,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:37.168Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633ef9d572480decd9e795,\n  nuser_id: 5c57094443360513c887c16d,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:37.907Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633efad572480decd9e796,\n  nuser_id: 5c56bec055811b10cce73992,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:38.722Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633efbd572480decd9e797,\n  nuser_id: 5c56d4d955811b10cce74161,\n  achive_target: 100,\n  total_ads: 25,\n  total_viewed_ads: 25,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:39.507Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633efcd572480decd9e798,\n  nuser_id: 5c58593243360513c888e702,\n  achive_target: 0,\n  total_ads: 18,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:40.282Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633efdd572480decd9e799,\n  nuser_id: 5c582aed43360513c888bdcf,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:41.302Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633efed572480decd9e79a,\n  nuser_id: 5c52c3cb9bb0f510f04b1641,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:42.245Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633efed572480decd9e79b,\n  nuser_id: 5c532e8f0933bf005894bc58,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:42.897Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633effd572480decd9e79c,\n  nuser_id: 5c5669a327bd8a1128fa4621,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:43.393Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f00d572480decd9e79d,\n  nuser_id: 5c59306743360513c889ab47,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:44.180Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f01d572480decd9e79e,\n  nuser_id: 5c58311743360513c888c3aa,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:45.249Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f02d572480decd9e7a0,\n  nuser_id: 5c5313b40933bf005894a40b,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:46.157Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f03d572480decd9e7a2,\n  nuser_id: 5c55adeb06b7f30e1803ffb2,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:47.181Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f03d572480decd9e7a3,\n  nuser_id: 5c52f7c60933bf0058948c50,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:47.552Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f04d572480decd9e7a4,\n  nuser_id: 5c51769937b9520c48564f4a,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:48.088Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f04d572480decd9e7a5,\n  nuser_id: 5c5364480933bf005894c97e,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:48.581Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f05d572480decd9e7a7,\n  nuser_id: 5c52fdb70933bf0058949150,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:49.680Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c3aee5631ef620c4c8c1dc0","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729216420000 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f06d572480decd9e7a8,\n  nuser_id: 5c5456350933bf005895c454,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:50.089Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f06d572480decd9e7a9,\n  nuser_id: 5c5538f60933bf00589674e7,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:50.673Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f07d572480decd9e7aa,\n  nuser_id: 5c56e1b955811b10cce74404,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:51.324Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f07d572480decd9e7ab,\n  nuser_id: 5c5346d20933bf005894c546,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:51.902Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f08d572480decd9e7ac,\n  nuser_id: 5c547b960933bf005895dd23,\n  achive_target: 0,\n  total_ads: 29,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:52.391Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f08d572480decd9e7ad,\n  nuser_id: 5c55466c0933bf0058968e51,\n  achive_target: 0,\n  total_ads: 25,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:52.962Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c442f8af8c63c0e5863854f","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728434349960 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f09d572480decd9e7ae,\n  nuser_id: 5c41d396a42a9a0b5c3b3090,\n  achive_target: 100,\n  total_ads: 10,\n  total_viewed_ads: 10,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:53.500Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0ad572480decd9e7af,\n  nuser_id: 5c559f0cc719440168a04351,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:54.151Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0bd572480decd9e7b1,\n  nuser_id: 5c566bd927bd8a1128fa4719,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:55.036Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0bd572480decd9e7b2,\n  nuser_id: 5c555d7f0933bf005896b3ab,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:55.447Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0cd572480decd9e7b3,\n  nuser_id: 5c5133c337b9520c48563037,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:56.188Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0cd572480decd9e7b5,\n  nuser_id: 5c568ab355811b10cce70877,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:56.665Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0dd572480decd9e7b6,\n  nuser_id: 5c56a3d555811b10cce72d3a,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:57.283Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0dd572480decd9e7b7,\n  nuser_id: 5c56c07455811b10cce73a4c,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:57.860Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0ed572480decd9e7b8,\n  nuser_id: 5c56c51655811b10cce73b9e,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:58.522Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0fd572480decd9e7b9,\n  nuser_id: 5c585c7043360513c888e9fd,\n  achive_target: 0,\n  total_ads: 29,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:59.144Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f0fd572480decd9e7ba,\n  nuser_id: 5c56f46f55811b10cce75023,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:47:59.761Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f11d572480decd9e7bc,\n  nuser_id: 5c57177843360513c887c7f0,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:01.609Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f11d572480decd9e7bd,\n  nuser_id: 5c56ba9155811b10cce73827,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:01.609Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c42b4919a6b5a04a0b3de76","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727381695498 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f12d572480decd9e7be,\n  nuser_id: 5c580bd943360513c888a1a8,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:02.878Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f14d572480decd9e7c0,\n  nuser_id: 5c5836c143360513c888c9c3,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:04.108Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f15d572480decd9e7c1,\n  nuser_id: 5c585fbc43360513c888ec3e,\n  achive_target: 27.77777777777778,\n  total_ads: 18,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:05.046Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f15d572480decd9e7c3,\n  nuser_id: 5c590a4d43360513c8896354,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:05.868Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f17d572480decd9e7c5,\n  nuser_id: 5c5714e143360513c887c689,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:07.837Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f18d572480decd9e7c6,\n  nuser_id: 5c5a4025dddb231388e34eeb,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:08.112Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f18d572480decd9e7c8,\n  nuser_id: 5c5a94cee818d20f14bba2d3,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:08.941Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f19d572480decd9e7c9,\n  nuser_id: 5c5883c043360513c889089c,\n  achive_target: 0,\n  total_ads: 5,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:09.558Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c45f084f8c63c0e58642189","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728242450839 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f1ad572480decd9e7ca,\n  nuser_id: 5c56942c55811b10cce7128d,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:10.095Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1bd572480decd9e7cc,\n  nuser_id: 5c5c2fe795baf510c00b5490,\n  achive_target: 0,\n  total_ads: 25,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:11.529Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1cd572480decd9e7cd,\n  nuser_id: 5c5b87480699a311e0d93ecb,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:12.504Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1dd572480decd9e7cf,\n  nuser_id: 5c5af4ace818d20f14bd767d,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:13.524Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1ed572480decd9e7d0,\n  nuser_id: 5c5bcd52aaa5db08c4fee5a8,\n  achive_target: 0,\n  total_ads: 9,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:14.015Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1ed572480decd9e7d1,\n  nuser_id: 5c513ac737b9520c4856343e,\n  achive_target: 100,\n  total_ads: 11,\n  total_viewed_ads: 11,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:14.512Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1fd572480decd9e7d2,\n  nuser_id: 5c5517fc0933bf00589632cd,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:15.163Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f1fd572480decd9e7d3,\n  nuser_id: 5c55c84927bd8a1128fa17d4,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:15.741Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f20d572480decd9e7d4,\n  nuser_id: 5c5547910933bf005896926d,\n  achive_target: 0,\n  total_ads: 36,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:16.191Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f20d572480decd9e7d5,\n  nuser_id: 5c539e700933bf005894d289,\n  achive_target: 0,\n  total_ads: 9,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:16.729Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f21d572480decd9e7d6,\n  nuser_id: 5c5bc234aaa5db08c4fec2b7,\n  achive_target: 0,\n  total_ads: 51,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:17.140Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f22d572480decd9e7d7,\n  nuser_id: 5c47dc2fcc411f03c4f6d6f8,\n  achive_target: 0,\n  total_ads: 21,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:18.002Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f23d572480decd9e7da,\n  nuser_id: 5c558052c719440168a01d00,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:19.075Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f23d572480decd9e7db,\n  nuser_id: 5c559719c719440168a03883,\n  achive_target: 0,\n  total_ads: 37,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:19.841Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f24d572480decd9e7dc,\n  nuser_id: 5c55b67027bd8a1128fa060a,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:20.663Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f25d572480decd9e7dd,\n  nuser_id: 5c55cfb227bd8a1128fa1eea,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:21.280Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f26d572480decd9e7df,\n  nuser_id: 5c56c39855811b10cce73adf,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:22.515Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f27d572480decd9e7e1,\n  nuser_id: 5c567e5055811b10cce6fe0a,\n  achive_target: 0,\n  total_ads: 51,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:23.581Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f2ad572480decd9e7e4,\n  nuser_id: 5c58409c43360513c888d039,\n  achive_target: 0,\n  total_ads: 10,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:26.363Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f2ad572480decd9e7e6,\n  nuser_id: 5c585d4543360513c888ea6c,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:26.939Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f2bd572480decd9e7e7,\n  nuser_id: 5c56947555811b10cce712aa,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:27.620Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f2cd572480decd9e7e8,\n  nuser_id: 5c5858b543360513c888e6aa,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:28.195Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f2cd572480decd9e7e9,\n  nuser_id: 5c4c35cce26fd315901e9454,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:28.811Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c3f2ad9354c740da40478ce","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726148695124 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f2dd572480decd9e7ea,\n  nuser_id: 5c57eb5543360513c8887ba1,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:29.303Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f2dd572480decd9e7eb,\n  nuser_id: 5c582f3143360513c888c20c,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:29.990Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c31c3c87d77c50f30c1fa0d","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725576804976 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3acd0d2114a811c4832ca1","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725772114385 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f31d572480decd9e7ec,\n  nuser_id: 5c59174a43360513c8897d79,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:48:33.508Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c45e277f8c63c0e58641c28","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726699407456 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3ad2812114a811c4832d27","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727680429255 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36bea3f9f8b514403f3f76","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728277870003 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c387b1fb524f608206a1bfd","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726200182677 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c32d26ad046730f005c1cab","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5729224668708 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c37676c124b7d16c4a2525c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727134564460 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c36e73046c1850ad43ffc99","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726346516330 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c45468cf8c63c0e5863bdfc","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5726978963591 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f64d572480decd9e7ed,\n  nuser_id: 5c5aa8bae818d20f14bc11cc,\n  achive_target: 0,\n  total_ads: 50,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:49:24.526Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f68d572480decd9e7f2,\n  nuser_id: 5c5d8c916de8f41058c3fd6c,\n  achive_target: 100,\n  total_ads: 5,\n  total_viewed_ads: 5,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:49:28.794Z,\n  __v: 0 }","level":"info"}
+{"message":"target History saved for User :-{ _id: 5c633f6ad572480decd9e7f7,\n  nuser_id: 5c60412c46a0af15249671ff,\n  achive_target: 0,\n  total_ads: 53,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:49:30.359Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c309cf619c7bf1198369bda","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727119080029 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c446be1f8c63c0e58639d33","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727842932888 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c35ea2ef9f8b514403f367c","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728469329339 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f6bd572480decd9e7fc,\n  nuser_id: 5c60518646a0af152496955e,\n  achive_target: 68.75,\n  total_ads: 16,\n  total_viewed_ads: 11,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:49:31.265Z,\n  __v: 0 }","level":"info"}
+{"message":"error line NO 95 : for User :-5c32e73e919214159c32f658","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5727328272186 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c403f478fdae80ab0464840","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728474235112 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3c1f201674c507489dc535","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5728078412548 not found","level":"error"}
+{"message":"error line NO 95 : for User :-5c3040695ea372141c2cde56","level":"error"}
+{"message":"error line NO 95 :MongoError: cursor id 5725648154120 not found","level":"error"}
+{"message":"target History saved for User :-{ _id: 5c633f74d572480decd9e7ff,\n  nuser_id: 5c5bec300d4912111c903ac2,\n  achive_target: 0,\n  total_ads: 54,\n  total_viewed_ads: 0,\n  target_date: '20190212',\n  cdate: 2019-02-12T21:49:40.646Z,\n  __v: 0 }","level":"info"}
